@@ -1,0 +1,6 @@
+venv/
+models/
+src/
+.vscode/
+raw3.xlsx
+summarization_001.tar
